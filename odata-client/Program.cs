@@ -37,6 +37,7 @@ namespace odata_client
             Console.WriteLine("5) Update existing person");
             Console.Write("\r\nSelect an option:");
 
+            // TODO add service with SOLID
             // For any other option close app
             switch (Console.ReadLine())
             {
